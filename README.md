@@ -1,0 +1,2 @@
+# datamaining
+tugas data maining
